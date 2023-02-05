@@ -1,0 +1,2 @@
+(this.webpackJsonpreactapp=this.webpackJsonpreactapp||[]).push([[0],{4:function(e,t,c){"use strict";c.r(t);c(0);var r=c(3),n=c.n(r),a=c(2);n.a.render(Object(a.jsx)("div",{children:Object(a.jsx)("h1",{style:{textAlign:"center",color:"#ADA0FC"},children:"Create your account:"})}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.395cdf26.chunk.js.map
